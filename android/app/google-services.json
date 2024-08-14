@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50799004250",
+    "project_id": "sanber-flutter-final-pro-cad33",
+    "storage_bucket": "sanber-flutter-final-pro-cad33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50799004250:android:52c81b9f90f3970a1ce663",
+        "android_client_info": {
+          "package_name": "com.example.sanber_flutter_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYbZChMSOH2GX4DII7Lq6sbXrUoZIQ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
